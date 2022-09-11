@@ -1,7 +1,7 @@
 ********************
 # Dina Kantayeva
 ********************
-![Avatar](splunk.PNG "That's me")
+![Avatar](avatar.jpg "That's me")
 ********************
 ### Junior Frontend Developer
 ********************
